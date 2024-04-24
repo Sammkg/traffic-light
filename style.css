@@ -52,8 +52,8 @@ li {
 @keyframes traffic2 {
     0% {background: black;}
     71% {background: black;}
-    72% {background: rgb(0, 170, 0);}
-    100% {background: rgb(0, 170, 0);}
+    72% {background: #33ff33;}
+    100% {background: #33ff33;}
 
 }
 .container li:nth-of-type(1) {
